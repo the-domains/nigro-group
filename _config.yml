@@ -1,0 +1,28 @@
+name: Nigro Group
+favicon: null
+layout_spectrum: 0.29756315145641565
+typography_spectrum: 0.4910852857865393
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4710088507272303
+  lightness: 0.8716101231984794
+  saturation: 0.828601133543998
+  rhythmicContrast: 0.21467602020129561
+purpose: []
